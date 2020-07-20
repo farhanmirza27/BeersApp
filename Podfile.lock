@@ -1,0 +1,28 @@
+PODS:
+  - Disk (0.6.4)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+
+DEPENDENCIES:
+  - Disk
+  - Kingfisher
+  - NVActivityIndicatorView (= 4.8.0)
+
+SPEC REPOS:
+  trunk:
+    - Disk
+    - Kingfisher
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  Disk: dcee5c2e98fb72f9a924cde8da8435b08244a80e
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+
+PODFILE CHECKSUM: 3d7994b4bb8b15f68eea0739d99f1b4ebdf01752
+
+COCOAPODS: 1.8.4
